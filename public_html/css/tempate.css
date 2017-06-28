@@ -30,6 +30,7 @@ body {
     background: #ECF4F6 no-repeat center center fixed;
     direction: ltr;
     user-select: none;
+    overflow-x: hidden;
     -moz-user-select: none;
     -khtml-user-select: none;
     -webkit-user-select: none;
